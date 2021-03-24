@@ -45,7 +45,7 @@ Currently, working as a fullstack developer. I like to learn new technologies. I
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=O-Abdelaaziz&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28)
 
-
+<summary>:zap: Github Used Language</summary>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Abdelaaziz&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=o-abdelaaziz)
