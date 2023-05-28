@@ -7,11 +7,15 @@
 <h1 align="center">Hi 👋, I'm Abdelaaziz Ouakala</h1>
 <h3 align="center">A FullStack Developer from Algeria</h3>
 
+<p align="center">
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20become%20so%20much%20of%20an%20expert%20that%20you%20stop%20gaining%20expertise.%20View%20life%20as%20a%20continuous%20learning%20experience&author=Denis%20Waitley">
+</p>
+
 <!-- commented ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=grow_out_in&layout=default&font=default) -->
 
-<p  align="center">
+<!--<p  align="center">
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=grow_out_in&layout=default&font=default"/>
-<p>
+<p>-->
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o-abdelaaziz" alt="o-abdelaaziz" /></a> </p>
 
