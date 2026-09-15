@@ -17,7 +17,7 @@
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=grow_out_in&layout=default&font=default"/>
 <p>-->
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o-abdelaaziz" alt="o-abdelaaziz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=O-Abdelaaziz&theme=light" alt="o-abdelaaziz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
