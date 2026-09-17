@@ -39,7 +39,7 @@
 
 <h2>👩‍💻 About Me</h2>
 
-<img align="right" width="378" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<img align="right" width="320" height="378" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
 ```yaml
 name: Abdelaaziz Ouakala
