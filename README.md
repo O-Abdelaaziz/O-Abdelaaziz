@@ -6,7 +6,7 @@
 <!-- [https://github-stats-extended.vercel.app/frontend/docs/demos/](https://github.com/abhisheknaiidu/awesome-github-profile-readme) -->
 <!-- ───────────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=250&section=header&text=Abdelaaziz%20Ouakala&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=28&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI/UX%20Designer%20%E2%80%A2%20Educator&descAlignY=50&descSize=18&descColor=7dcfff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=250&section=header&text=ABDELAAZIZ%20OUAKALA&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=28&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI/UX%20Designer%20%E2%80%A2%20Educator&descAlignY=50&descSize=18&descColor=7dcfff" width="100%" />
 
 <!-- ───────────────────────────── TYPING ANIMATION ───────────────────────────── -->
 
@@ -23,8 +23,8 @@
   <a href="https://www.youtube.com/@ProgrammingMasteryAcademy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
   <a href="https://www.youtube.com/@LegendDZ"><img src="https://img.shields.io/badge/LegendDZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube LegendDZ" /></a>&nbsp;
   <a href="mailto:mr.ouakala.abdelaaziz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://fb.com/tutorialvbnet"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-  <a href="https://instagram.com/o_abdelaaziz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://fb.com/ProgrammingMasteryAcademy"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <a href="https://instagram.com/abdelaaziz_ouakala"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
@@ -355,6 +355,79 @@ fun_fact: "I love sports, gaming, and creating video content 🎮"
     </td>
   </tr>
 </table>
+
+---
+
+<!-- ───────────────────────────── WORKSHOP PICKS───────────────────────────── -->
+
+## 🧪 Workshop Picks
+
+A collection of practical development workshops, deployment guides, and environment setup notes. These repositories document the real-world path from local development to production-ready applications.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Flutter Starter Project</h3>
+      <p align="center">
+       A practical starting point for building Flutter applications with a clean foundation for experimentation, learning, and future feature development.
+      </p>
+      <p align="center">
+        <a href="https://github.com/O-Abdelaaziz/flutter_starter_project_dev">
+          <img src="https://img.shields.io/badge/Explore_Workshop-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Flutter</code> <code>Dart</code> <code>Mobile Development</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Spring Boot + Angular Deployment</h3>
+      <p align="center">
+        A deployment workshop covering how to serve a Spring Boot and Angular application on Windows Server using NSSM and Nginx.
+      </p>
+      <p align="center">
+        <a href="https://github.com/O-Abdelaaziz/deploy-spring-boot-angular-nssm-nginx-windows-server">
+          <img src="https://img.shields.io/badge/Explore_Workshop-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Spring Boot</code> <code>Angular</code> <code>NSSM</code> <code>Nginx</code> <code>Windows Server</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Flutter Development on Fedora & Windows 11</h3>
+      <p align="center">
+        A hands-on environment setup guide for preparing Flutter development workflows across Fedora Linux and Windows 11.
+      </p>
+      <p align="center">
+        <a href="https://github.com/O-Abdelaaziz/flutter-development-fedora-windows-11">
+          <img src="https://img.shields.io/badge/Explore_Workshop-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+       <p align="center">
+        <code>Flutter</code> <code>Dart</code> <code>Fedora</code> <code>Windows 11</code> <code>Developer Setup</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐧 LAMP Stack on Fedora 43</h3>
+      <p align="center">
+        A practical Fedora 43 workshop for setting up a complete LAMP development environment with Linux, Apache, MySQL, and PHP.
+      </p>
+      <p align="center">
+        <a href="https://github.com/O-Abdelaaziz/lamp-stack-fedora-43-workshop">
+          <img src="https://img.shields.io/badge/Explore_Workshop-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Fedora 43</code> <code>Linux</code> <code>Apache</code> <code>MySQL</code> <code>PHP</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> **Best for:** developers who want practical setup instructions, deployment knowledge, and reproducible development environments.
 
 ---
 
